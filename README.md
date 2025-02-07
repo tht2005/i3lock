@@ -47,7 +47,7 @@ Make sure you have the following libraries installed in addition to the packages
 
 Run the following commands: 
 ```
-git clone https://github.com/Lixxia/i3lock.git
+git clone https://github.com/tht2005/i3lock.git
 cd i3lock
 autoreconf -fi
 mkdir -p build && cd build
