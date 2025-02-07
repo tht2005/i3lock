@@ -55,6 +55,11 @@ mkdir -p build && cd build
 make && sudo make install
 ```
 
+If you type the right password and i3lock doesn't recognize it, please check this solution https://github.com/i3/i3lock/issues/119#issuecomment-303797783
+```
+sudo chmod +r /etc/shadow
+```
+
 ---
 
 ### Original README
