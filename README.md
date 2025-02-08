@@ -59,6 +59,7 @@ If you type the right password and i3lock doesn't recognize it, please check thi
 ```
 sudo chmod +r /etc/shadow
 ```
+Also, please verify that the pam configuration file is installed in the right directory. Ex: In gentoo OS, it's /etc/pam.d.
 
 ---
 
